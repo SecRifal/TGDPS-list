@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demon List</title>
+    <link rel="stylesheet" href="styles/demons.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="top" id="top">
+        <div class="main">
+            <a href="index.html">Main</a>
+        </div>
+        <div class="lists">
+            <a href="demon.html" class="using">Demon List</a>
+            <a href="challenge.html">Challenge List</a>
+            <a href="players.html">Players List</a>            
+        </div>
+    </div>
+
+    <!-- Модальное окно для информации об уровне -->
+    <div class="modal" id="level-modal">
+        <div class="modal-box">
+            <span class="close-btn" onclick="closeLevelInfo()">&times;</span>
+            <div id="modal-content"></div>
+        </div>
+    </div>
+
+    <div class="demons" id="levels-wrapper">
+        <!-- уровни появятся здесь -->
+    </div>
+
+    <div class="footer">
+        <a href="https://t.me/tgdpswin" class="telegram"><img src="/imgs/contacts/tg.png" class="tg"></a>
+        <a href="https://discord.gg/A93E62z4YJ" class="discord"><img src="/imgs/contacts/ds.png" class="ds"></a>
+        <a href="https://youtube.com/@slizensliz?si=QxjW6fH4pMl1J6t0" class="youtube"><img src="/imgs/contacts/yt.png" class="yt"></a>
+    </div>
+    
+    <script src="js/addDemons.js"></script>
+</body>
+</html>

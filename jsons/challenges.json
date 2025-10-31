@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Made in 83 days x2",
+        "levelID": "119",
+        "creator": "dobryansky",
+        "videoURL": false,
+        "imageURL": "imgs/challenges/Made in 83 days x2.png",
+        "Verifier": "dobryansky",
+        "verifURL": false
+    },
+    {
+        "name": "Ship challenge",
+        "levelID": "122",
+        "creator": "Dumontyt",
+        "videoURL": false,
+        "imageURL": "imgs/challenges/Ship challenge.png",
+        "Verifier": "Dumontyt",
+        "verifURL": false
+    },
+    {
+        "name": "The great chamberx2",
+        "levelID": "141",
+        "creator": "dobryansky",
+        "videoURL": false,
+        "imageURL": "imgs/challenges/The great chamberx2.png",
+        "Verifier": "dobryansky",
+        "verifURL": false
+    }
+]

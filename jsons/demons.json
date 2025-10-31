@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Classical",
+        "levelID": "114",
+        "creator": "SecRifal",
+        "videoURL": "https://youtu.be/HO93SOvjKw8",
+        "imageURL": "imgs/demons/Classical.png",
+        "Verifier": "SecRifal",
+        "verifURL": "https://youtu.be/YE2mEpY9aCM"
+    },
+    {
+        "name": "Bankomat",
+        "levelID": "164",
+        "creator": "SecRifal",
+        "videoURL": "https://youtu.be/2A-WLTmLE3Y",
+        "imageURL": "imgs/demons/Bankomat.png",
+        "Verifier": "SecRifal",
+        "verifURL": "https://youtu.be/oiDzOnQmsDQ"
+    },
+    {
+        "name": "End of the time",
+        "levelID": "162",
+        "creator": "sr3l1ck",
+        "videoURL": false,
+        "imageURL": "imgs/demons/End of the time.png",
+        "Verifier": "sr3l1ck",
+        "verifURL": false
+    },
+    {
+        "name": "Ice",
+        "levelID": "142",
+        "creator": "Pivo",
+        "videoURL": false,
+        "imageURL": "imgs/demons/Ice.png",
+        "Verifier": "Pivo",
+        "verifURL": false
+    }
+]
